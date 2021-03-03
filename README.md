@@ -1,2 +1,2 @@
 # Analog-Clock
-Displays system time in an analog format
+Displays system time in an analog format.
